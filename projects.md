@@ -3,6 +3,11 @@ title: Group Project
 layout: post
 ---
 
+## Important Dates
+
+- Dec 2 & 4: In class presentations and playable demos
+- Dec 13: Written report emailed to Elena & Nada
+
 ## Guidelines
 
 - at least 2 people, at most 5 people
