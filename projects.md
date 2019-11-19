@@ -25,16 +25,16 @@ layout: post
 
 1. A design argument
 
-   - Need thesis and evidence collected
-   - Approach thesis and evidence collected
+   - Need thesis and evidence collected (20%)
+   - Approach thesis and evidence collected (20%)
 
-2. A design fiction
+2. A design fiction (10%)
 
    - Describe how a particular user runs into the obstacle and then gets around the obstacle using your designed object/language
 
-3. Describe how you collected the evidence
-4. Insights (including technical) and lessons learned
-5. How would you push this project further for a research publication?
+3. Describe how you collected the evidence (10%)
+4. Insights (including technical) and lessons learned (20%)
+5. How would you push this project further for a research publication? (10%)
 
 ### In class
 
